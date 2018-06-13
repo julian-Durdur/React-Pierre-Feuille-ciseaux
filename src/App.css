@@ -1,0 +1,9 @@
+*{
+  background: url("http://fr.ubergizmo.com/wp-content/uploads/2015/09/shutterstock_240047431.jpg") fixed ;
+  background-size: cover;
+  
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
