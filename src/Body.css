@@ -1,3 +1,9 @@
+* {
+	color: #fff;
+	text-align: center;
+}
+
+
 img.choisi {
     border: 1px solid red;
 }

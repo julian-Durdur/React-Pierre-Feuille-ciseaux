@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import Choix_joueur from './Choix_joueur';
 import './Body.css';
 
-class Body extends Component {
+class Choix_joueur extends Component {
     render() {  
       console.log('essai'+this.props.state.choix[0])
       const tab_choix_joueur = this.props.state.possibilites.map(
@@ -26,4 +25,4 @@ class Body extends Component {
     }
   }
 
-  export default Body;
+  export default Choix_joueur;
