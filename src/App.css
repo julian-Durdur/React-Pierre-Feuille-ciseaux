@@ -1,5 +1,5 @@
-*{
-  background: url("http://fr.ubergizmo.com/wp-content/uploads/2015/09/shutterstock_240047431.jpg") fixed ;
+.BODY{
+  background: url("https://static-openask-com.s3.amazonaws.com/content/images/tests/large/377_test.jpg") fixed ; 
   background-size: cover;
   
 }

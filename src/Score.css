@@ -1,0 +1,7 @@
+.divScore{
+    position: absolute;
+    top: 30px;
+    right: 35px;
+    background-color: rgb(102, 255, 0);
+    z-index: 2;
+}
